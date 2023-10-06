@@ -8,9 +8,6 @@ The current version of directory will host all scripts of the pipeline being use
 Briefly, the pipeline takes care of *insert here steps, in shape of a table?bullet points?* etc. between Discovery and Target samples, and calculation of final scores. 
 
 
-![PRS_using_existed_weights](https://user-images.githubusercontent.com/16557724/223905146-c5acf2ae-9a67-4576-bbcc-8781e3e89073.png)
-
-
 
 This directory is temporary and being improved, and a more generic version of pipeline / container for customizable genetic data and non-cloud based environment will be added.
 
