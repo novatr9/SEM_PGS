@@ -50,7 +50,7 @@ plink \
     --out target.QC
 ```
 
-Each of the parameters corresponds to the following
+Each of the parameters corresponds to the following:
 
 | Parameter | Value | Description|
 |:-:|:-:|:-|
@@ -84,7 +84,7 @@ plink \
     --out target.QC
 ```
 
-Each of the parameters corresponds to the following
+Each of the parameters corresponds to the following:
 
 | Parameter | Value | Description|
 |:-:|:-:|:-|
