@@ -6,6 +6,10 @@ Every person cited in this document has their email address linked to their name
 
 Ps: Dates are european (ie DD.MM.YYYY)
 
+# to do list:
+ - connect to the UiO server
+ - check if the NPSOL optimizer works on their server
+ - find meta data about sequencing batches and batch effects of questionnaires gathering
 
 ## 19.11.2023
 
