@@ -38,7 +38,8 @@ We got access!!!!! [Dinka](dinka.smajlagic@psykologi.uio.no), a postdoc from UiO
 
 ## 6.12.2023
 
-Eivind could not make our monthly meeting. At least he let us know.
+Eivind could not make our monthly meeting. At least he let us know. \
+This [link](https://www.fhi.no/en/ch/studies/moba/for-forskere-artikler/questionnaires-from-moba/#invitation-and-statements-of-consent) lists the questoinnaires included in MoBa.
 
 ## 8.12.2023
 
@@ -48,4 +49,3 @@ We discussed possible phenotypes to start working on:
  - <u>Height</u> 
  - <u>ADHD</u> is maternally reported and the mom self reports
  - <u>Depression</u> 8yo data for kids \
-This [link](https://www.fhi.no/en/ch/studies/moba/for-forskere-artikler/questionnaires-from-moba/#invitation-and-statements-of-consent) lists the questoinnaires included in MoBa.
