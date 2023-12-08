@@ -49,4 +49,4 @@ Xuanyu and Matt have access to the Microsoft teams channel of IuO but not yet me
 We discussed possible phenotypes to start working on: 
  - <u>Height</u> 
  - <u>ADHD</u> is maternally reported and the mom self reports
- - <u>Depression</u> 8yo data for kids \
+ - <u>Depression</u> 8yo data for kids 
