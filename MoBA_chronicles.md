@@ -10,6 +10,7 @@ Ps: Dates are european (ie DD.MM.YYYY)
  - connect to the UiO server
  - check if the NPSOL optimizer works on their server
  - find meta data about sequencing batches and batch effects of questionnaires gathering
+ - get Rosa's scripts for calculating PGS
 
 ## 8.12.2023
 
