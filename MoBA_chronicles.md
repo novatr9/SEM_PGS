@@ -44,8 +44,8 @@ Eivind could not make our monthly meeting. At least he let us know.
 
 Nice meeting with Eivind and Rosa. She felt a bit standoffish regarding sharing code, but it's most likely a matter of us giving appropriate reassurance that we will acknowledge her ownership. 
 Xuanyu and Matt have access to the Microsoft teams channel of IuO but not yet me. [Clara Marie Fides Timpe](cmtimpe@uio.no) is admin and the person to request access to. \
-We discussed possible phenotypes to start working on: \
+We discussed possible phenotypes to start working on: 
  - <u>Height</u> 
  - <u>ADHD</u> is maternally reported and the mom self reports
- - <u>Depression</u> 8yo data for kids
- This [link](https://www.fhi.no/en/ch/studies/moba/for-forskere-artikler/questionnaires-from-moba/#invitation-and-statements-of-consent) lists the questoinnaires included in MoBa.
+ - <u>Depression</u> 8yo data for kids \
+This [link](https://www.fhi.no/en/ch/studies/moba/for-forskere-artikler/questionnaires-from-moba/#invitation-and-statements-of-consent) lists the questoinnaires included in MoBa.
