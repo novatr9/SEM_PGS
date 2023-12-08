@@ -48,3 +48,4 @@ We discussed possible phenotypes to start working on: \
  - <u>Height</u> 
  - <u>ADHD</u> is maternally reported and the mom self reports
  - <u>Depression</u> 8yo data for kids
+ This [link](https://www.fhi.no/en/ch/studies/moba/for-forskere-artikler/questionnaires-from-moba/#invitation-and-statements-of-consent) lists the questoinnaires included in MoBa.
