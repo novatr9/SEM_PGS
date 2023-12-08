@@ -20,6 +20,7 @@ We discussed possible phenotypes to start working on:
  - <u>Height</u> 
  - <u>ADHD</u> is maternally reported and the mom self reports
  - <u>Depression</u> 8yo data for kids
+Here the [link](https://github.com/rosacheesman/ADHD_schools) to Rosa's repo on analyzing MoBa and ADHD in schools
 
 ## 6.12.2023
 
