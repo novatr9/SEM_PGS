@@ -20,7 +20,14 @@ We discussed possible phenotypes to start working on:
  - <u>Height</u> 
  - <u>ADHD</u> is maternally reported and the mom self reports
  - <u>Depression</u> 8yo data for kids
-Here the [link](https://github.com/rosacheesman/ADHD_schools) to Rosa's repo on analyzing MoBa and ADHD in schools
+Here the [link](https://github.com/rosacheesman/ADHD_schools) to Rosa's repo on analyzing MoBa and ADHD in schools \
+\
+
+To connect to the Oslo server: \
+Go to the terminal, enter: \
+
+`ssh p805-submit.tsd.usit.no` \
+`cd /cluster/projects/p805/`
 
 ## 6.12.2023
 
