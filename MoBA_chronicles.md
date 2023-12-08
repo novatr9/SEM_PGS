@@ -7,7 +7,7 @@ Every person cited in this document has their email address linked to their name
 Ps: Dates are european (ie DD.MM.YYYY)
 
 # to do list:
- - connect to the UiO server
+ - ~~connect to the UiO server~~
  - check if the NPSOL optimizer works on their server
  - find meta data about sequencing batches and batch effects of questionnaires gathering
  - get Rosa's scripts for calculating PGS
@@ -17,13 +17,13 @@ Ps: Dates are european (ie DD.MM.YYYY)
 Nice meeting with Eivind and Rosa. She felt a bit standoffish regarding sharing code, but it's most likely a matter of us giving appropriate reassurance that we will acknowledge her ownership. 
 Xuanyu and Matt have access to the Microsoft teams channel of IuO but not yet me. [Clara Marie Fides Timpe](cmtimpe@uio.no) is admin and the person to request access to. \
 We discussed possible phenotypes to start working on: 
- - <u>Height</u> 
- - <u>ADHD</u> is maternally reported and the mom self reports
- - <u>Depression</u> 8yo data for kids
+ - **Height** 
+ - **ADHD** is maternally reported and the mom self reports
+ - **Depression** 8yo data for kids
 Here the [link](https://github.com/rosacheesman/ADHD_schools) to Rosa's repo on analyzing MoBa and ADHD in schools \
 \
 
-To connect to the Oslo server: \
+**To connect to the Oslo server**: \
 Go to the terminal, enter: \
 
 `ssh p805-submit.tsd.usit.no` \
