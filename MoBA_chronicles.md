@@ -14,7 +14,8 @@ unformally as the legal way is so long and tedious.
 
 ## 20.11.2023
 
-Eivind sent us our norsk credentials through WHatsapp and [Xuanyu](Xuanyu.Lyu@colorado.edu) and I got access to the TSD portal (through which we access sensitive data hosted by UiO), but no data to be seen anywhere. 
+Eivind sent us our norsk credentials through WHatsapp and [Xuanyu](Xuanyu.Lyu@colorado.edu) and I got access to the TSD portal (through which we access sensitive data hosted by UiO), but no data to be seen anywhere. \
+NOTE: the remote desktop has a scandinavian keyboard so when thinking of a password keep that in mind. For example, the sign "@" cannot be typed from a US keyboard.
 
 ## 21.11.2023
 
