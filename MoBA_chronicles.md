@@ -12,6 +12,16 @@ Ps: Dates are european (ie DD.MM.YYYY)
  - find meta data about sequencing batches and batch effects of questionnaires gathering
  - get Rosa's scripts for calculating PGS
 
+## 12.12.23
+
+Email from UiO's IT team:
+"Hi Noemie
+
+Unfortunately we are not familiar with OpenMX. If you want to install openMX you need to contact your administrator and they will contact us. 
+
+I am hereby closing this ticket."
+
+
 ## 11.12.23
 
 Got access to the p805 teams chat
