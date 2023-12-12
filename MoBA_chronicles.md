@@ -14,7 +14,7 @@ Ps: Dates are european (ie DD.MM.YYYY)
 
 ## 12.12.23
 
-Email from UiO's IT team:
+Email from UiO's IT team: \
 "Hi Noemie
 
 Unfortunately we are not familiar with OpenMX. If you want to install openMX you need to contact your administrator and they will contact us. 
