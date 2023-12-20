@@ -11,6 +11,8 @@ Ps: Dates are european (ie DD.MM.YYYY)
  - ~~check if the NPSOL optimizer works on their server~~
  - find meta data about sequencing batches and batch effects of questionnaires gathering
  - get Rosa's scripts for calculating PGS
+ - find partitioning script for hPGS
+ - [google doc](https://docs.google.com/document/d/1VJSf6GZWipu-aCMFqXz3eeGK3aV1byOHL6vHYRvfMa0/edit?usp=sharing)
 
 ## 18.12.23
 
