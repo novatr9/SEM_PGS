@@ -16,7 +16,8 @@ Ps: Dates are european (ie DD.MM.YYYY)
 
 ## 20.12.23
 
-Singularities work on the cluster but not on 
+Singularities work on the cluster but not on TSD rooms
+This [paper](https://www.biorxiv.org/content/10.1101/2022.06.23.496289v2) contains the QC steps for MoBa
 
 ## 18.12.23
 
