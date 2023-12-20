@@ -20,7 +20,7 @@ Jeff made a singulrity to run the NPSOL optimizer in OpenMx. Dinka and I both im
 
 ## 16.12.23
 
-Dinka and I wrote a protocol for running SEM PGS on MoBa adding the tasks we’re working on at the moment. You can find it here: [google doc](https://docs.google.com/document/d/1VJSf6GZWipu-aCMFqXz3eeGK3aV1byOHL6vHYRvfMa0/edit?usp=sharing). This document is work in progress.
+Dinka and I wrote a protocol for running SEM PGS on MoBa adding the tasks we’re working on at the moment. You can find it here: [google doc](https://docs.google.com/document/d/1VJSf6GZWipu-aCMFqXz3eeGK3aV1byOHL6vHYRvfMa0/edit?usp=sharing). It contains a step by step chronology of the files, packages/softwares, input and outputs we need for our analysis. This document is work in progress. 
 
 ## 12.12.23
 
