@@ -12,6 +12,14 @@ Ps: Dates are european (ie DD.MM.YYYY)
  - find meta data about sequencing batches and batch effects of questionnaires gathering
  - get Rosa's scripts for calculating PGS
 
+## 18.12.23
+
+Jeff made a singulrity to run the NPSOL optimizer in OpenMx. Dinka and I both imported it to our respective TDS rooms via the large file transfer link: [TSD import](https://data.tsd.usit.no/file-import/)
+
+## 16.12.23
+
+Dinka and I wrote a protocol for running SEM PGS on MoBa adding the tasks we’re working on at the moment. You can find it here: [google doc](https://docs.google.com/document/d/1VJSf6GZWipu-aCMFqXz3eeGK3aV1byOHL6vHYRvfMa0/edit?usp=sharing). This document is work in progress.
+
 ## 12.12.23
 
 Email from UiO's IT team: \
