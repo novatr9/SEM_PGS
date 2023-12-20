@@ -14,6 +14,10 @@ Ps: Dates are european (ie DD.MM.YYYY)
  - find partitioning script for hPGS
  - [google doc](https://docs.google.com/document/d/1VJSf6GZWipu-aCMFqXz3eeGK3aV1byOHL6vHYRvfMa0/edit?usp=sharing)
 
+## 20.12.23
+
+Singularities work on the cluster but not on 
+
 ## 18.12.23
 
 Jeff made a singulrity to run the NPSOL optimizer in OpenMx. Dinka and I both imported it to our respective TDS rooms via the large file transfer link: [TSD import](https://data.tsd.usit.no/file-import/)
